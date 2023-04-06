@@ -1,7 +1,15 @@
 # Rede Social [em andamento]
 
 ## Sobre o Projeto
-O projeto tem como objetivo permitir que o usuário possa se cadastrar, criar um perfil, fazer postagens, seguir, curtir e comentar postagens de outros usuários.  
+O projeto tem como objetivo:
+- [x] Cadastrar usuário
+- [x] Criar um perfil
+- [ ] Postar imagens ou textos
+- [x] Seguir outros usuários
+- [ ] Receber notificações
+- [ ] Curtir e comentar postagens de outros usuários
+- [ ] Visualizar quais usuários estão online
+- [ ] Iniciar um chat 
 
 
 ### Frontend
