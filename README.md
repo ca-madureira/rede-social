@@ -3,6 +3,7 @@
 ## Sobre o Projeto
 O projeto tem como objetivo:
 - [x] Cadastrar usuário
+- [x] Fazer login
 - [x] Criar um perfil
 - [ ] Postar imagens ou textos
 - [x] Seguir outros usuários
