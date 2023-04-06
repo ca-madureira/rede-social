@@ -7,7 +7,7 @@ O projeto tem como objetivo:
 - [x] Criar um perfil
 - [ ] Postar imagens ou textos
 - [x] Seguir outros usuários
-- [ ] Receber notificações
+- [ ] Receber notificações de curtidas e comentários
 - [ ] Curtir e comentar postagens de outros usuários
 - [ ] Visualizar quais usuários estão online
 - [ ] Iniciar um chat 
