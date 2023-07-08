@@ -2,15 +2,13 @@
 
 ## Sobre o Projeto
 O projeto tem como objetivo:
-- [x] Cadastrar usuário
-- [x] Fazer login
-- [x] Criar um perfil
-- [ ] Postar imagens ou textos
-- [x] Seguir outros usuários
-- [ ] Receber notificações de curtidas e comentários
-- [ ] Curtir e comentar postagens de outros usuários
-- [ ] Visualizar quais usuários estão online
-- [ ] Iniciar um chat 
+-  Cadastrar usuário
+-  Fazer login
+-  Criar um perfil
+-  Postar imagens ou textos
+-  Seguir outros usuários
+-  Curtir e comentar postagens de outros usuários
+
 
 
 ### Frontend
