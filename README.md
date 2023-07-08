@@ -1,4 +1,4 @@
-# Rede Social [em andamento]
+# Rede Social
 
 ## Sobre o Projeto
 O projeto tem como objetivo:
